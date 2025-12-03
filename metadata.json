@@ -1,0 +1,5 @@
+{
+  "name": "Hệ thống Theo dõi Vụ án Tố tụng",
+  "description": "A comprehensive case tracking system for managing legal proceedings, featuring case grouping, status tracking, and AI-assisted analysis.",
+  "requestFramePermissions": []
+}
